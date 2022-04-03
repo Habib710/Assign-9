@@ -37,16 +37,19 @@ const Home = () => {
               </div>
             </div>
             </section> 
-            <section className='bg-light pt-4'>
-              <h1>Customer Reviews</h1>
+            <section className='bg-light py-4 my-5'>
+              <h1 className='test'>Customer Reviews</h1>
               <div className='card-css my-4'>
 
               {
-                information.map(info=><HomeReview key={info.id} data={info} ></HomeReview>)
+                information.slice(0,3).map(info=><HomeReview key={info.id} data={info} ></HomeReview>)
               }
+             
               </div>
+              <button  className='btn  bg-primary text-white fw-bold text-center'>More Reviews</button>
 
             </section>
+
         </div>
     );
 };
