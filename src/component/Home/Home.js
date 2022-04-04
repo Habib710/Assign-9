@@ -3,6 +3,7 @@ import img from './wifi-router-500x500.jpg';
 import './home.css';
 import useData from '../../hooks/useData';
 import HomeReview from '../home-review/HomeReview';
+import { Link } from 'react-router-dom';
 // import useData from '../../hooks/useData';
 
 
@@ -46,7 +47,7 @@ const Home = () => {
               }
              
               </div>
-              <button  className='btn  bg-primary text-white fw-bold text-center'>More Reviews</button>
+              <Link to="/Review"  className='btn  bg-primary text-white fw-bold text-center'>More Reviews</Link>
 
             </section>
 

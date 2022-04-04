@@ -1,5 +1,5 @@
 .newcss2 img{
-    width: 80%;
+    width: 100%;
   
     
 
@@ -22,3 +22,7 @@
     display: grid;
     grid-template-columns: repeat(3 ,1fr);
 }
+
+
+    
+

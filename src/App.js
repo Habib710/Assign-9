@@ -4,6 +4,7 @@ import About from './component/About/About';
 import Desboard from './component/desboard/Desboard';
 
 import Error from './component/Error/Error';
+import Footer from './component/footer/Footer';
 
 import Header from './component/hearder/Header';
 import Home from './component/Home/Home';
@@ -28,6 +29,7 @@ function App() {
 
 
     </Routes>
+    <Footer></Footer>
 
 
       </div>

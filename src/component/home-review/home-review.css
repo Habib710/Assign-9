@@ -2,13 +2,13 @@
     background-color: rgb(255, 255, 255);
     margin: 30px;
     padding: 25px;
-    border: 3px solid rgb(50, 156, 255);
+    border: 3px solid rgb(101, 164, 223);
     border-radius: 15px;
    
 }
 .home-review-css img{
-    width: 120px;
-    border: 3px solid rgb(50, 156, 255);
-    border-radius: 80%;
+    width: 150px;
+    border: 3px solid rgb(96, 143, 187);
+    border-radius: 190%;
     margin: 30px;
 }
