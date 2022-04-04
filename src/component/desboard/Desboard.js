@@ -28,7 +28,7 @@ const Desboard = () => {
           </div>
       </div>
       <div className='row cos-css' >
-          <div className='col-6   m-3'>
+          <div className='col-5   m-3'>
               <h3 className='py-4 my-2'>ComposedChartsof Data</h3>
           <Bar></Bar>
           </div>

@@ -22,7 +22,7 @@ const Home = () => {
             <div className='row  m-0 p-0  '>
               <div className='col-6 px-5  sm:col-12'>
                 <h1 className='text-center testcss'>
-                TP Link White WiFi Router,
+                TP Link White WiFi Router
                 <br /> For 300mbps Internet
 
                 </h1>
