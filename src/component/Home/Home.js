@@ -11,7 +11,7 @@ import { Link } from 'react-router-dom';
 
 
 const Home = () => {
-  const [information, setinformation]=useData([]);
+  const [information]=useData([]);
   
 
 
@@ -37,6 +37,10 @@ const Home = () => {
                 <img src={img} alt="img" />
               </div>
             </div>
+
+            {/* Reviews section................... */}
+
+            
             </section> 
             <section className='bg-light py-4 my-5'>
               <h1 className='test'>Customer Reviews</h1>
