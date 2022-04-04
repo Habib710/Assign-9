@@ -8,6 +8,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 #About My Website :
 
+*It's a multipage website
+*In Home page there are two section ,frist is about img and web heading just then other section is about cart .
+*There are some review of costumer .
+*Then i have dashboard which is representing the data garaph.
+*I have also some error message page in this website
+
 
 ### `npm start`
 
