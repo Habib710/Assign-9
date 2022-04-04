@@ -1,9 +1,10 @@
 import React from 'react';
+import '../Error/error.css'
 
 const About = () => {
     return (
-        <div>
-            <h1>This is about </h1>
+        <div className='csss'>
+            <h1>This is about page</h1>
             
         </div>
     );
